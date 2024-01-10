@@ -18,5 +18,5 @@ I've completed workshops on front-end development and am eager to apply my skill
 Let's connect and explore collaborative opportunities, check the Reactfolio I created [here](https://ecvcds.netlify.app/)!
 
 Some stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecvcds)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecvcds)](https://github.com/anuraghazra/github-readme-stats)
 
