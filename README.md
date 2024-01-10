@@ -15,6 +15,7 @@ My contributions include over 20 publications and involvement in international a
 Now, my journey leads me to pursue web development, leveraging my academic excellence and practical experience. 
 I've completed workshops on front-end development and am eager to apply my skills creatively to solve problems in this domain.
 
-Let's connect and explore collaborative opportunities, shaping the innovative landscape of web development together!
+Let's connect and explore collaborative opportunities, check the Reactfolio I created [here](https://ecvcds.netlify.app/)!
 
-Explore the Reactfolio I created [here](https://ecvcds.netlify.app/)!
+Some stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ecvcds)](https://git.io/streak-stats)
