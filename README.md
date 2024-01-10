@@ -18,4 +18,5 @@ I've completed workshops on front-end development and am eager to apply my skill
 Let's connect and explore collaborative opportunities, check the Reactfolio I created [here](https://ecvcds.netlify.app/)!
 
 Some stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ecvcds)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecvcds)](https://github.com/anuraghazra/github-readme-stats)
+
